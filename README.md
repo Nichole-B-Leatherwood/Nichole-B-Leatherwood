@@ -9,14 +9,14 @@ nichole1797@gmail.com
  * Great communication skills on working with colleages from different background
 
 ## Education
- 1. University of Tennessee (2024)
-    * Software Engineering Bootcamp: HTML, CSS, JavaScript, Bootstrap
- 2. Simmmons University (2016)
-    * Masters of Science in Nursing
- 3. Wichita State University (2011)
-    * Bachelors of Science in Nursing
- 4. Pratt Community College (2009)
-    * Associate of Science in Nursing
+   * University of Tennessee (2024)
+       * Software Engineering Bootcamp: HTML, CSS, JavaScript, Bootstrap
+   * Simmmons University (2016)
+       * Masters of Science in Nursing
+   * Wichita State University (2011)
+       * Bachelors of Science in Nursing
+   * Pratt Community College (2009)
+       * Associate of Science in Nursing
 
    ## Experience
    1. Included Health - Family Nurse Practitioner 
